@@ -1,3 +1,5 @@
 tom resolusi
 - konsisten
 - membuat form diskusi
+- membuat aplikasi
+- kolaborasi dengan lebih banyak
